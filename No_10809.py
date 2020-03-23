@@ -9,4 +9,5 @@ for i in range(len(word)) :
     if alpha[asc-97] == -1 :
         alpha[asc - 97] = i
 
-print(alpha)
+for elem in alpha :
+    print(elem, end =" ")
