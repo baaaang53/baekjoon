@@ -1,4 +1,5 @@
 # K진 트리
+# 시간초과 에러
 
 import sys
 import queue
